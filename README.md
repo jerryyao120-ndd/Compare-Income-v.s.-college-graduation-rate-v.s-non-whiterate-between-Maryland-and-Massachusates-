@@ -6,7 +6,11 @@
 ### The analyze result shows that :
 - the college graduation rate are higher in MA than MD at the some income level
 - Non significance relationship between non-white rate and income
+## Visualization
+![11](https://github.com/jerryyao120-ndd/Compare-Income-v.s.-college-graduation-rate-v.s-non-whiterate-between-Maryland-and-Massachusates-/blob/master/Analysis/MP1-1.png)
+![12](https://github.com/jerryyao120-ndd/Compare-Income-v.s.-college-graduation-rate-v.s-non-whiterate-between-Maryland-and-Massachusates-/blob/master/Analysis/MP1-2.png)
 ## Data source
-- Data Source: [Opportunity Atlas]:https://www.opportunityatlas.org/
+- Data Source: [Opportunity Atlas](https://www.opportunityatlas.org)
 - All data is in conutry level
-- [Original Data Path]:
+- [Original Data Path](https://github.com/jerryyao120-ndd/Compare-Income-v.s.-college-graduation-rate-v.s-non-whiterate-between-Maryland-and-Massachusates-/tree/master/Analysis)
+
