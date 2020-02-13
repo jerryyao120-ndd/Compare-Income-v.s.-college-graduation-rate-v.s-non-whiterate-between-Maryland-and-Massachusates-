@@ -13,4 +13,10 @@
 - Data Source: [Opportunity Atlas](https://www.opportunityatlas.org)
 - All data is in conutry level
 - [Original Data Path](https://github.com/jerryyao120-ndd/Compare-Income-v.s.-college-graduation-rate-v.s-non-whiterate-between-Maryland-and-Massachusates-/tree/master/Analysis)
-
+## Data Processing Steps:
+- Download Data
+- Sort by cty#
+- Merge
+- Column Seperation to get State
+- Filter by State MA,MD
+- Scatter Plot
