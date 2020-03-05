@@ -20,3 +20,8 @@
 - Column Seperation to get State
 - Filter by State MA,MD
 - Scatter Plot
+## Pythoh Notebook:
+(https://github.com/jerryyao120-ndd/Compare-Income-v.s.-college-graduation-rate-v.s-non-whiterate-between-Maryland-and-Massachusates-/blob/master/MINIPROJECT01VISUALIZATION.ipynb)
+## Python Visualization:
+![q](https://github.com/jerryyao120-ndd/Compare-Income-v.s.-college-graduation-rate-v.s-non-whiterate-between-Maryland-and-Massachusates-/blob/master/MINIPROJECT0401.png)
+![w](https://github.com/jerryyao120-ndd/Compare-Income-v.s.-college-graduation-rate-v.s-non-whiterate-between-Maryland-and-Massachusates-/blob/master/MINIPROJECT0402.png)
